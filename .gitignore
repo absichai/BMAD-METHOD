@@ -19,7 +19,6 @@ npm-debug.log*
 build/*.txt
 
 # Environment variables
-.env
 
 # System files
 .DS_Store
@@ -67,3 +66,4 @@ z*/
 
 .bmad
 .claude
+config.bat
